@@ -1,0 +1,63 @@
+{
+  "category": "message-queues",
+  "created_date": "2025-09-15T22:48:57.886188",
+  "default_ports": [
+    80,
+    443,
+    9092
+  ],
+  "dependencies": [
+    "java-11-openjdk"
+  ],
+  "description": "kafka is a free and open-source distributed streaming platform. Kafka provides high-throughput distributed messaging system",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/message-queues/kafka",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/message-queues/kafka",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.886210",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "kafka",
+  "repository_url": "https://github.com/howtomgr/kafka",
+  "spec_version": "2.0",
+  "subcategory": "message-queues",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "message-queues",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "kafka Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/message-queues/kafka"
+}
